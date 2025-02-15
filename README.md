@@ -18,7 +18,7 @@ This repository contains simple React projects designed to help developers:
    - Manage lists and arrays in state
    - Practice CRUD operations
 
-# Coming soon...
+# Coming soon
 <!-- 2. **Weather App**
    - Work with external APIs
    - Learn async/await and fetch
