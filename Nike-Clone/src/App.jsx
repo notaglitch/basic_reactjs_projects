@@ -1,10 +1,11 @@
-import { Navbar, Hero, PopularProducts, SuperQuality, Services, SpecialOffer, CustomerReviews, Subscribe, Footer } from "./sections";
+import { Hero, PopularProducts, SuperQuality, Services, SpecialOffer, CustomerReviews, Subscribe, Footer } from "./sections";
+import Nav from "./components/Nav";
 
 function App() {
 
   return (
     <main className="relative">
-      {/* <Navbar /> */}
+      <Nav />
       <section className="xl:padding-1 wide:padding-r padding-b">
         <Hero />
       </section>
