@@ -1,9 +1,10 @@
+import { Navbar, Hero, PopularProducts, SuperQuality, Services, SpecialOffer, CustomerReviews, Subscribe, Footer } from "./sections";
 
 function App() {
 
   return (
     <main className="relative">
-      <Navbar />
+      {/* <Navbar /> */}
       <section className="xl:padding-1 wide:padding-r padding-b">
         <Hero />
       </section>
